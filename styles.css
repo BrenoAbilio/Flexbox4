@@ -1,0 +1,17 @@
+/* Siga as orientações no arquivo README para concluir o exercício */
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+
+.cabecalho {
+    background-color: blue;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo {
+    color: pink;
+    font-weight: bold;
